@@ -1,0 +1,1 @@
+My Web App adalah istilah yang merujuk pada aplikasi berbasis web yang dirancang untuk berjalan di browser internet.
